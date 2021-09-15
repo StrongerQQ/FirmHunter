@@ -1,0 +1,4 @@
+INFO:example01:info message
+WARNING:example01:warn message
+ERROR:example01:error message
+CRITICAL:example01:critical message

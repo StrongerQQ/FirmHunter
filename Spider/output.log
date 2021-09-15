@@ -1,0 +1,62 @@
+DEBUG:root:fuzzing: test1
+DEBUG:root:fuzzing: test1->test2
+DEBUG:root:fuzzing: test1->test2->test3
+INFO:root:b'5'
+INFO:root:b'6'
+INFO:root:b'7'
+INFO:root:b'89'
+INFO:root:b'10'
+DEBUG:root:fuzzing: test1
+DEBUG:root:fuzzing: test1->test2
+DEBUG:root:fuzzing: test1->test2->test3
+INFO:root:b'5'
+INFO:root:b'6'
+INFO:root:b'7'
+INFO:root:b'89'
+INFO:root:b'10'
+DEBUG:root:fuzzing: test1
+DEBUG:root:fuzzing: test1->test2
+DEBUG:root:fuzzing: test1->test2->test3
+INFO:root:b'5'
+INFO:root:b'6'
+INFO:root:b'7'
+INFO:root:b'89'
+INFO:root:b'10'
+DEBUG:root:fuzzing: test1
+DEBUG:root:fuzzing: test1->test2
+DEBUG:root:fuzzing: test1->test2->test3
+INFO:root:b'5'
+INFO:root:b'6'
+INFO:root:b'7'
+INFO:root:b'89'
+INFO:root:b'10'
+DEBUG:root:fuzzing: test1
+DEBUG:root:fuzzing: test1->test2
+DEBUG:root:fuzzing: test1->test2->test3
+INFO:root:b'5'
+INFO:root:b'6'
+INFO:root:b'7'
+INFO:root:b'89'
+INFO:root:b'10'
+DEBUG:root:fuzzing: test1
+DEBUG:root:fuzzing: test1->test2
+DEBUG:root:fuzzing: test1->test2->test3
+INFO:root:b'5'
+INFO:root:b'6'
+INFO:root:b'7'
+INFO:root:b'89'
+INFO:root:b'10'
+DEBUG:root:fuzzing: test1
+DEBUG:root:fuzzing: test1->test2
+DEBUG:root:fuzzing: test1->test2->test3
+INFO:root:b'89'
+INFO:root:b'10'
+01-24 22:53:41-Fuzzer-INFO-b'89'
+01-24 22:53:41-Fuzzer-INFO-b'10'
+01-24 22:59:36-Fuzzer-ERROR-!!!!!!!!!!!!
+01-24 23:00:06-Fuzzer-ERROR-!!!!!!!!!!!!
+01-24 23:00:46-Fuzzer-ERROR-!!!!!!!!!!!!
+01-24 23:00:54-Fuzzer-ERROR-!!!!!!!!!!!!
+01-24 23:03:12-Fuzzer-ERROR-!!!!!!!!!!!!
+01-24 23:03:20-Fuzzer-ERROR-!!!!!!!!!!!!
+01-24 23:03:21-Fuzzer-ERROR-!!!!!!!!!!!!

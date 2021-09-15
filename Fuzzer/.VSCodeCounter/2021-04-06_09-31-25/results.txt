@@ -1,0 +1,58 @@
+Date : 2021-04-06 09:31:25
+Directory : /home/hunter/Desktop/IOT-fuzz/Fuzzer
+Total : 25 files,  75674 codes, 214 comments, 279 blanks, all 76167 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| Log                |          3 |     74,230 |          0 |          3 |     74,233 |
+| Python             |         13 |      1,147 |        211 |        224 |      1,582 |
+| C                  |          1 |        147 |          0 |         23 |        170 |
+| Markdown           |          4 |        103 |          0 |         26 |        129 |
+| JSON with Comments |          1 |         35 |          0 |          0 |         35 |
+| Shell Script       |          3 |         12 |          3 |          3 |         18 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                               | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                  |         25 |     75,674 |        214 |        279 |     76,167 |
+| .VSCodeCounter                                                                     |          4 |        103 |          0 |         26 |        129 |
+| .VSCodeCounter/2021-04-06_09-27-18                                                 |          2 |         49 |          0 |         13 |         62 |
+| .VSCodeCounter/2021-04-06_09-30-51                                                 |          2 |         54 |          0 |         13 |         67 |
+| http_test                                                                          |          5 |      3,127 |         88 |        110 |      3,325 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                           | language           | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/.VSCodeCounter/2021-04-06_09-27-18/details.md | Markdown           |         30 |          0 |          6 |         36 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/.VSCodeCounter/2021-04-06_09-27-18/results.md | Markdown           |         19 |          0 |          7 |         26 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/.VSCodeCounter/2021-04-06_09-30-51/details.md | Markdown           |         32 |          0 |          6 |         38 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/.VSCodeCounter/2021-04-06_09-30-51/results.md | Markdown           |         22 |          0 |          7 |         29 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/IOT_fuzzer.py                                 | Python             |        386 |         45 |         38 |        469 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/IOT_fuzzer_without_parse.py                   | Python             |        196 |         28 |         34 |        258 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/IOT_logging.py                                | Python             |          8 |          0 |          1 |          9 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/bak.py                                        | Python             |         88 |         25 |         19 |        132 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/boofuzz_modify.py                             | Python             |         39 |          0 |          5 |         44 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/debug.log                                     | Log                |        146 |          0 |          1 |        147 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/fuzzer.py                                     | Python             |         15 |          4 |          9 |         28 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/http_test/client.py                           | Python             |         34 |         24 |         11 |         69 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/http_test/exploit.py                          | Python             |        155 |         35 |         69 |        259 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/http_test/handle_stream.py                    | Python             |         46 |         29 |          6 |         81 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/http_test/result.log                          | Log                |      2,745 |          0 |          1 |      2,746 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/http_test/server.c                            | C                  |        147 |          0 |         23 |        170 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/imports.py                                    | Python             |          7 |          0 |          7 |         14 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/output.log                                    | Log                |     71,339 |          0 |          1 |     71,340 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/parse.py                                      | Python             |         82 |          8 |         14 |        104 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/restart.sh                                    | Shell Script       |          4 |          1 |          1 |          6 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/rollback.sh                                   | Shell Script       |          4 |          1 |          1 |          6 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/snapshot.sh                                   | Shell Script       |          4 |          1 |          1 |          6 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/spider.py                                     | Python             |         91 |         13 |         10 |        114 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/test.py                                       | Python             |          0 |          0 |          1 |          1 |
+| /home/hunter/Desktop/IOT-fuzz/Fuzzer/workspace.code-workspace                      | JSON with Comments |         35 |          0 |          0 |         35 |
+| Total                                                                              |                    |     75,674 |        214 |        279 |     76,167 |
++------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

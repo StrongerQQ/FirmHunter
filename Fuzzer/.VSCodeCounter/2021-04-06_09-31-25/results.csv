@@ -1,0 +1,27 @@
+"filename", "language", "Shell Script", "JSON with Comments", "Python", "C", "Log", "Markdown", "comment", "blank", "total"
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/.VSCodeCounter/2021-04-06_09-27-18/details.md", "Markdown", 0, 0, 0, 0, 0, 30, 0, 6, 36
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/.VSCodeCounter/2021-04-06_09-27-18/results.md", "Markdown", 0, 0, 0, 0, 0, 19, 0, 7, 26
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/.VSCodeCounter/2021-04-06_09-30-51/details.md", "Markdown", 0, 0, 0, 0, 0, 32, 0, 6, 38
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/.VSCodeCounter/2021-04-06_09-30-51/results.md", "Markdown", 0, 0, 0, 0, 0, 22, 0, 7, 29
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/IOT_fuzzer.py", "Python", 0, 0, 386, 0, 0, 0, 45, 38, 469
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/IOT_fuzzer_without_parse.py", "Python", 0, 0, 196, 0, 0, 0, 28, 34, 258
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/IOT_logging.py", "Python", 0, 0, 8, 0, 0, 0, 0, 1, 9
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/bak.py", "Python", 0, 0, 88, 0, 0, 0, 25, 19, 132
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/boofuzz_modify.py", "Python", 0, 0, 39, 0, 0, 0, 0, 5, 44
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/debug.log", "Log", 0, 0, 0, 0, 146, 0, 0, 1, 147
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/fuzzer.py", "Python", 0, 0, 15, 0, 0, 0, 4, 9, 28
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/http_test/client.py", "Python", 0, 0, 34, 0, 0, 0, 24, 11, 69
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/http_test/exploit.py", "Python", 0, 0, 155, 0, 0, 0, 35, 69, 259
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/http_test/handle_stream.py", "Python", 0, 0, 46, 0, 0, 0, 29, 6, 81
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/http_test/result.log", "Log", 0, 0, 0, 0, 2745, 0, 0, 1, 2746
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/http_test/server.c", "C", 0, 0, 0, 147, 0, 0, 0, 23, 170
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/imports.py", "Python", 0, 0, 7, 0, 0, 0, 0, 7, 14
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/output.log", "Log", 0, 0, 0, 0, 71339, 0, 0, 1, 71340
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/parse.py", "Python", 0, 0, 82, 0, 0, 0, 8, 14, 104
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/restart.sh", "Shell Script", 4, 0, 0, 0, 0, 0, 1, 1, 6
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/rollback.sh", "Shell Script", 4, 0, 0, 0, 0, 0, 1, 1, 6
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/snapshot.sh", "Shell Script", 4, 0, 0, 0, 0, 0, 1, 1, 6
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/spider.py", "Python", 0, 0, 91, 0, 0, 0, 13, 10, 114
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/test.py", "Python", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/home/hunter/Desktop/IOT-fuzz/Fuzzer/workspace.code-workspace", "JSON with Comments", 0, 35, 0, 0, 0, 0, 0, 0, 35
+"Total", "-", 12, 35, 1147, 147, 74230, 103, 214, 279, 76167
